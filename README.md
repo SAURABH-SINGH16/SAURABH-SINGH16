@@ -77,19 +77,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-singh16&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-<h3 align="center">📄 Timeline</h3>
 
-```yaml
-2025 - Present:
-  - 🎓 FY M.Sc. Computer Science @ ATSS College
-  - 📱 Developing Android & Web apps
-
-2020 - 2023:
-  - 🎓 B.Sc. Computer Science @ Pratibha College
-  - 💻 Built projects in Java, Python, Web Dev
-
-2018 - 2020:
-  - 👨‍🎓 Learned fundamentals of programming and software Engineering
 ---
 
 <h3 align="center">🌱 Contribution Graph</h3>
@@ -97,4 +85,19 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-singh16&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
+
 ---
+
+<h3 align="center">📄 Timeline</h3>
+
+```yaml
+2025 - Present:
+  - 🎓 FY M.Sc. Computer Science @ ATSS College
+  - 📱 Developing Android & Web apps
+
+2023 - 2025:
+  - 🎓 B.Sc. Computer Science @ Pratibha College
+  - 💻 Built projects in Java, Python, Web Dev
+
+2020 - 2023:
+  - 👨‍🎓 Learned fundamentals of programming and software engineering
