@@ -88,7 +88,7 @@
 
 ---
 
-<h3 align="center">📄 Timeline</h3>
+<h3 align="center">Education Details</h3>
 
 ```yaml
 2025 - Present:
