@@ -5,9 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=saurabh-singh16&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-singh16" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabh-singh16&theme=onedark&row=1&column=7" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=saurabh-singh16&theme=onedark" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
@@ -40,27 +44,54 @@
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="80" height="80"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
 
   <!-- Backend & Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
 </p>
 
 ---
+
+<h3 align="center">📂 Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/SAURABH-SINGH16/Online-Library-Management-System">
+    <img src="https://img.shields.io/badge/📚 Online Library Management System-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/saurabh-singh16/personal-finance-tracker">
+    <img src="https://img.shields.io/badge/💰 AI Finance Tracker-success?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/saurabh-singh16/weather-app">
+    <img src="https://img.shields.io/badge/⛅ Weather App-orange?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📸 Project Screenshots</h3>
+
+<p align="center">
+  <img src="https://your-image-link.com/screenshot1.png" width="400" alt="Project Screenshot 1"/>
+  <img src="https://your-image-link.com/screenshot2.gif" width="400" alt="Project Screenshot 2"/>
+</p>
+
+> ✨ **Tip**: Replace image links above with real image URLs or uploaded images in your repo (`/assets/screenshot.png` etc.)
+
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -73,4 +104,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-singh16&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🌱 Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabh-singh16&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
