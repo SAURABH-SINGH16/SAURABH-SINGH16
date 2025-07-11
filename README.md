@@ -63,35 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
 </p>
 
----
-
-<h3 align="center">📂 Featured Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/SAURABH-SINGH16/Online-Library-Management-System">
-    <img src="https://img.shields.io/badge/📚 Online Library Management System-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/saurabh-singh16/personal-finance-tracker">
-    <img src="https://img.shields.io/badge/💰 AI Finance Tracker-success?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/saurabh-singh16/weather-app">
-    <img src="https://img.shields.io/badge/⛅ Weather App-orange?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<h3 align="center">📸 Project Screenshots</h3>
-
-<p align="center">
-  <img src="https://your-image-link.com/screenshot1.png" width="400" alt="Project Screenshot 1"/>
-  <img src="https://your-image-link.com/screenshot2.gif" width="400" alt="Project Screenshot 2"/>
-</p>
-
-> ✨ **Tip**: Replace image links above with real image URLs or uploaded images in your repo (`/assets/screenshot.png` etc.)
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
