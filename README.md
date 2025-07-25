@@ -34,7 +34,7 @@
   <a href="https://github.com/saurabh-singh16?tab=repositories" target="_blank">
     <img src="https://img.shields.io/github/stars/saurabh-singh16?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
   </a>
-  <a href="https://www.linkedin.com/in/saurabh-singh16/" target="_blank">
+  <a href="https://www.linkedin.com/in/saurabh-web-developers-aab3b820a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ssingh2168@gmail.com">
