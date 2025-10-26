@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web and Mobile Apps**
 - 🌱 I’m currently learning **Machine Learning and DevOps**
-- 💬 Ask me about **Web Development, Android, Java, Python**
+- 💬 Ask me about **Web Development,Java, Python**
 - 📫 Reach me at: **ssingh2168@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems using tech
 
