@@ -1,22 +1,20 @@
+<p align="center">
+  <img src="https://github.com/SAURABH-SINGH16/SAURABH-SINGH16/blob/main/30b90671-b246-4950-bdeb-d10bba505369.png" alt="Saurabh Singh Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Saurabh Singh</h1>
 <h3 align="center">💻 Software Developer | 📚 M.Sc. (CS) Student | 🚀 Tech Enthusiast</h3>
-
-###
-
-<p align="center">
-  Passionate about building full-stack applications, automating workflows, and creating intelligent systems that make life easier.  
-  I love working with modern web technologies, exploring AI-powered tools, and continuously learning new things every day!
-</p>
 
 ---
 
 ### 🧠 About Me
 
 - 🎓 Pursuing **M.Sc. in Computer Science** at *ATSS College of Business Studies and Computer Application, Pune*  
-- 💼 Currently developing **web and Android applications** (MVVM, Room DB, Jetpack, Flask, Node.js, MongoDB)  
-- 🧩 Skilled in **Java, Python, JavaScript, HTML, CSS, Tailwind, MongoDB, SQL, PHP**  
-- 💬 Ask me about **Web Development, Software Testing, or AI-integrated Projects**  
-- 🌱 Currently exploring **DevOps, Backend APIs, and Finance Automation Tools**  
+- 💼 Currently developing **web and Android applications** using Java, MVVM, Flask, and Node.js  
+- 🧩 Skilled in **Java, Python, JavaScript, PHP, SQL, MongoDB, HTML, CSS, Tailwind CSS**  
+- 💬 Ask me about **Web Development, Software Testing, and AI-powered Projects**  
+- 🌱 Exploring **DevOps, Backend APIs, and Finance Automation Tools**  
+- 📍 Based in **Pune, Maharashtra**  
 - 📫 Reach me at: **saurabhsingh.work@gmail.com**
 
 ---
@@ -32,8 +30,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSingh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSingh&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAURABH-SINGH16&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAURABH-SINGH16&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
@@ -41,18 +39,18 @@
 ### 🏆 Achievements & Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhSingh&theme=dracula&no-frame=true&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SAURABH-SINGH16&theme=dracula&no-frame=true&margin-w=8&margin-h=8" />
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 💼 **AI-Powered Personal Finance Tracker** – Manage income, expenses & budgets smartly  
-- 📚 **Library Management System (Android, MVVM)** – Organized digital library with Room DB  
-- 🧠 **Personal Note Manager (Flask Web App)** – Secure notes with tags & reminders  
-- 💹 **Groww-like Trading Dashboard (HTML, CSS, JS)** – Real-time stock data & animations  
-- 🛒 **Full-Stack E-Commerce Website** – Tailwind + Node.js + MongoDB Integration  
+- 💼 **AI-Powered Personal Finance Tracker** – Smart insights for income and expenses  
+- 📚 **Library Management System (Android + MVVM)** – Efficient digital library handling  
+- 🧠 **Personal Note Manager (Flask App)** – Notes with tags, search, and reminders  
+- 💹 **Groww-like Trading Dashboard** – Real-time stocks with clean UI and animations  
+- 🛒 **Full-Stack E-Commerce Website** – Node.js + MongoDB + Tailwind CSS integration  
 
 ---
 
@@ -65,7 +63,7 @@
   <a href="mailto:saurabhsingh.work@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/SaurabhSingh" target="_blank">
+  <a href="https://github.com/SAURABH-SINGH16" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&style=for-the-badge" height="25" />
   </a>
 </div>
