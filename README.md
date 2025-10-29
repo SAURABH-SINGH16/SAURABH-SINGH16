@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2560" height="640" alt="SAURABH-SINGH16-readme-banner" src="https://github.com/user-attachments/assets/b92219e3-3032-42f4-b96b-aa1bc9d18e94" />
+  <img width="2560" height="640" alt="SAURABH-SINGH16-readme-banner (1)" src="https://github.com/user-attachments/assets/1e75de7a-ed87-4f98-a501-13adff6d65ce" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Saurabh Singh</h1>
