@@ -16,7 +16,7 @@
 - 💬 Ask me about **Web Development, Software Testing, and AI-powered Projects**  
 - 🌱 Exploring **DevOps, Backend APIs, and Finance Automation Tools**  
 - 📍 Based in **Pune, Maharashtra**  
-- 📫 Reach me at: **saurabhsingh.work@gmail.com**
+- 📫 Reach me at: **ssingh2168@gmail.com**
 
 ---
 
