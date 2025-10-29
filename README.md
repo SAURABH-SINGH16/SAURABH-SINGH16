@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2560" height="640" alt="SAURABH-SINGH16-readme-banner" src="https://github.com/user-attachments/assets/17c5f0c9-c820-49cd-9422-6f1ceee7b765" />
+  <img width="2560" height="640" alt="SAURABH-SINGH16-readme-banner (2)" src="https://github.com/user-attachments/assets/90f3f124-5f3f-489d-8556-f55c4c74f6cb" />
 
 </p>
 
