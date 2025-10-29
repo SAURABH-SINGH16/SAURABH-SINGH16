@@ -12,7 +12,7 @@
 
 - 🎓 Pursuing **M.Sc. in Computer Science** at *ATSS College of Business Studies and Computer Application, Pune*  
 - 💼 Currently developing **web and Android applications** using Java, MVVM, Flask, and Node.js  
-- 🧩 Skilled in **Java, Python, JavaScript, PHP, SQL, MongoDB, HTML, CSS, Tailwind CSS**  
+- 🧩 Skilled in **Java, Python, JavaScript, SQL, HTML, CSS, Tailwind CSS**  
 - 💬 Ask me about **Web Development, Software Testing, and AI-powered Projects**  
 - 🌱 Exploring **DevOps, Backend APIs, and Finance Automation Tools**  
 - 📍 Based in **Pune, Maharashtra**  
@@ -47,11 +47,11 @@
 
 ### 🚀 Featured Projects
 
-- 💼 **AI-Powered Personal Finance Tracker** – Smart insights for income and expenses  
-- 📚 **Library Management System (Android + MVVM)** – Efficient digital library handling  
-- 🧠 **Personal Note Manager (Flask App)** – Notes with tags, search, and reminders  
-- 💹 **Groww-like Trading Dashboard** – Real-time stocks with clean UI and animations  
-- 🛒 **Full-Stack E-Commerce Website** – Node.js + MongoDB + Tailwind CSS integration  
+- **AI-Powered Personal Finance Tracker** – Smart insights for income and expenses  
+- **Library Management System (Android + MVVM)** – Efficient digital library handling  
+- **Personal Note Manager (Flask App)** – Notes with tags, search, and reminders  
+- **Groww-like Trading Dashboard** – Real-time stocks with clean UI and animations  
+- **Full-Stack E-Commerce Website** – Node.js + MongoDB + Tailwind CSS integration  
 
 ---
 
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/saurabh-singh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="25" />
   </a>
-  <a href="mailto:saurabhsingh.work@gmail.com">
+  <a href="mailto:ssingh2168@gamil.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com/SAURABH-SINGH16" target="_blank">
