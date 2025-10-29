@@ -70,13 +70,5 @@
 
 ---
 
-### 🎮 Fun Side
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
-</p>
-
----
-
 ⭐ **“Code. Learn. Build. Repeat.”**  
 _Always striving to turn ideas into impactful digital experiences._
