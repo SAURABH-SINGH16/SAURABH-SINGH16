@@ -55,10 +55,10 @@
 
 ---
 
-### 🌐 Connect with Me
+🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saurabh-singh" target="_blank">
+  <a href="https://www.linkedin.com/in/saurabh-web-developers-aab3b820a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:ssingh2168@gamil.com">
