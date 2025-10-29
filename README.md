@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SAURABH-SINGH16/SAURABH-SINGH16/blob/main/banner.png" width="100%" />
-
+  <img src="https://github.com/SAURABH-SINGH16/SAURABH-SINGH16/blob/main/30b90671-b246-4950-bdeb-d10bba505369.png" alt="Saurabh Singh Banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Saurabh Singh</h1>
