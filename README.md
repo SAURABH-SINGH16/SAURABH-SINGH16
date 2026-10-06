@@ -24,24 +24,11 @@
   />
 </a>
 
-<a href="#">
-  <img
-    src="https://img.shields.io/badge/Dev.to%20Blog-111827?style=for-the-badge&logo=devdotto&logoColor=white"
-    alt="Dev.to Blog"
-  />
-</a>
 
 <a href="#">
   <img
     src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"
     alt="LeetCode"
-  />
-</a>
-
-<a href="#">
-  <img
-    src="https://img.shields.io/badge/X%20(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
   />
 </a>
 
