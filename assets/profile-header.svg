@@ -1,1 +1,116 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
 
+  <!-- Background -->
+  <rect width="1200" height="360" rx="4" fill="#363636"></rect>
+
+  <!-- Decorative stars -->
+  <g fill="#07958f">
+    <path d="M780 0 L792 18 L812 25 L792 32 L780 52 L768 32 L748 25 L768 18 Z"></path>
+    <path d="M830 8 L838 20 L852 25 L838 30 L830 44 L822 30 L808 25 L822 20 Z"></path>
+  </g>
+
+  <!-- Main heading -->
+  <text x="55" y="105" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f5f5f5">
+    Java Backend Developer
+  </text>
+
+  <!-- Name -->
+  <text x="55" y="135" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#bdbdbd">
+    Saurabh Singh
+  </text>
+
+  <!-- Technology icons -->
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+
+    <!-- Java -->
+    <circle cx="70" cy="190" r="24" fill="#202020"></circle>
+    <text x="70" y="199" font-size="26" font-weight="700" fill="#f89820">
+      ☕
+    </text>
+    <text x="70" y="228" font-size="11" fill="#eeeeee">
+      Java
+    </text>
+
+    <!-- Spring -->
+    <circle cx="145" cy="190" r="24" fill="#202020"></circle>
+    <text x="145" y="199" font-size="26" fill="#6db33f">
+      ●
+    </text>
+    <text x="145" y="228" font-size="11" fill="#eeeeee">
+      Spring
+    </text>
+
+    <!-- Maven -->
+    <circle cx="220" cy="190" r="24" fill="#202020"></circle>
+    <text x="220" y="198" font-size="18" font-weight="700" fill="#e44d26">
+      M
+    </text>
+    <text x="220" y="228" font-size="11" fill="#eeeeee">
+      Maven
+    </text>
+
+    <!-- MySQL -->
+    <circle cx="295" cy="190" r="24" fill="#202020"></circle>
+    <text x="295" y="198" font-size="17" font-weight="700" fill="#00758f">
+      SQL
+    </text>
+    <text x="295" y="228" font-size="11" fill="#eeeeee">
+      MySQL
+    </text>
+
+    <!-- MongoDB -->
+    <circle cx="370" cy="190" r="24" fill="#202020"></circle>
+    <text x="370" y="200" font-size="25" font-weight="700" fill="#47a248">
+      ●
+    </text>
+    <text x="370" y="228" font-size="11" fill="#eeeeee">
+      MongoDB
+    </text>
+
+    <!-- Azure -->
+    <circle cx="445" cy="190" r="24" fill="#202020"></circle>
+    <text x="445" y="200" font-size="20" font-weight="700" fill="#0078d4">
+      ◆
+    </text>
+    <text x="445" y="228" font-size="11" fill="#eeeeee">
+      Azure
+    </text>
+
+  </g>
+
+  <!-- Website icon -->
+  <circle cx="62" cy="286" r="17" fill="#159b96"></circle>
+  <text x="62" y="292" text-anchor="middle" font-family="Arial" font-size="17" fill="white">
+    ◉
+  </text>
+
+  <!-- Website -->
+  <text x="90" y="292" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#eeeeee">
+    saurabh-portfolio-1.netlify.app
+  </text>
+
+  <!-- Email icon -->
+  <circle cx="420" cy="286" r="17" fill="#159b96"></circle>
+  <text x="420" y="292" text-anchor="middle" font-family="Arial" font-size="16" fill="white">
+    ✉
+  </text>
+
+  <!-- Email -->
+  <text x="448" y="292" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#eeeeee">
+    ssingh2168@gmail.com
+  </text>
+
+  <!-- Decorative bottom-right graphic -->
+  <g fill="none" stroke="#3f806b" stroke-width="3" opacity="0.85">
+
+    <path d="M1060 285 L1090 255 L1120 285 L1090 315 Z"></path>
+    <path d="M1090 255 L1120 225 L1150 255 L1120 285 Z"></path>
+    <path d="M1030 315 L1060 285 L1090 315 L1060 345 Z"></path>
+    <path d="M1090 315 L1120 285 L1150 315 L1120 345 Z"></path>
+
+    <path d="M1060 255 L1090 225 L1120 255"></path>
+    <path d="M1090 285 L1120 255 L1150 285"></path>
+    <path d="M1060 315 L1090 285 L1120 315"></path>
+  </g>
+
+</svg>
