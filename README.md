@@ -1,16 +1,48 @@
-## Hi there 👋
+<p align="center">
+  <img
+    src="./assets/profile-header.svg"
+    width="100%"
+    alt="Saurabh Singh - Java Backend Developer"
+  />
+</p>
 
-<!--
-**SAURABH-SINGH16/SAURABH-SINGH16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://saurabh-portfolio-1.netlify.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20My%20Portfolio-111827?style=for-the-badge"
+    alt="My Portfolio"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/saurabh-singh-aab3b820a/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/Dev.to%20Blog-111827?style=for-the-badge&logo=devdotto&logoColor=white"
+    alt="Dev.to Blog"
+  />
+</a>
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+    alt="LeetCode"
+  />
+</a>
+
+<a href="#">
+  <img
+    src="https://img.shields.io/badge/X%20(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
+</a>
+
+</p>
