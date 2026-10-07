@@ -52,21 +52,21 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tech Stack 🛠️
 
-<p align="center">
-
-<table width="90%" cellspacing="0" cellpadding="30">
-
-<!-- ================= TOP ROW ================= -->
-
-<tr>
+<table width="98%" align="left" cellspacing="0" cellpadding="22">
 
 <!-- ================= FRONTEND ================= -->
 
-<td width="33.33%" align="center" valign="top">
+<tr>
+
+<td width="18%" align="center" valign="middle">
 
 <h3>🌐 Frontend</h3>
 
-<table cellspacing="0" cellpadding="5">
+</td>
+
+<td width="82%" align="left">
+
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 
 <td align="center">
@@ -98,14 +98,22 @@
 
 </td>
 
+</tr>
+
 
 <!-- ================= BACKEND ================= -->
 
-<td width="33.33%" align="center" valign="top">
+<tr>
+
+<td width="18%" align="center" valign="middle">
 
 <h3>☕ Backend</h3>
 
-<table cellspacing="0" cellpadding="5">
+</td>
+
+<td width="82%" align="left">
+
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 
 <td align="center">
@@ -131,14 +139,22 @@
 
 </td>
 
+</tr>
+
 
 <!-- ================= DATABASE ================= -->
 
-<td width="33.33%" align="center" valign="top">
+<tr>
+
+<td width="18%" align="center" valign="middle">
 
 <h3>🗄️ Database</h3>
 
-<table cellspacing="0" cellpadding="5">
+</td>
+
+<td width="82%" align="left">
+
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 
 <td align="center">
@@ -166,23 +182,24 @@
 
 </tr>
 
-</table>
-
-</p>
-
 
 <!-- ================= DEVOPS & TOOLS ================= -->
 
-<p align="center">
+<tr>
 
-<h3 align="center">⚙️ DevOps & Tools</h3>
+<td width="18%" align="center" valign="middle">
 
-<table align="center" cellspacing="0" cellpadding="5">
+<h3>⚙️ DevOps & Tools</h3>
 
+</td>
+
+<td width="82%" align="left">
+
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" alt="Microsoft Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" alt="Azure"/>
 <br>
 <b>Azure</b>
 </td>
@@ -218,7 +235,12 @@
 </td>
 
 </tr>
+</table>
+
+</td>
+
+</tr>
 
 </table>
 
-</p>
+<br clear="all">
