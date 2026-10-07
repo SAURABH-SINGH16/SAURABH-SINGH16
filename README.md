@@ -57,7 +57,7 @@
 
 ## Tech Stack 🛠️
 
-<table width="100%">
+<table width="300%">
 <tr>
 
 <!-- ================= FRONTEND ================= -->
