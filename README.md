@@ -56,13 +56,13 @@
 
 ## Tech Stack 🛠️
 
-<table width="100%" cellspacing="0" cellpadding="12">
+<table width="100%" cellspacing="0" cellpadding="20">
 
 <tr>
 
 <!-- ================= FRONTEND ================= -->
 
-<td width="50%" align="center" valign="top">
+<td width="45%" align="center" valign="top">
 
 <h3>🌐 Frontend</h3>
 
@@ -79,7 +79,13 @@
 </p>
 
 <p>
-<b>HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; React &nbsp; • &nbsp; Tailwind CSS</b>
+<b>
+HTML5 &nbsp; • &nbsp;
+CSS3 &nbsp; • &nbsp;
+JavaScript &nbsp; • &nbsp;
+React &nbsp; • &nbsp;
+Tailwind CSS
+</b>
 </p>
 
 </td>
@@ -87,7 +93,7 @@
 
 <!-- ================= BACKEND ================= -->
 
-<td width="90%" align="center" valign="top">
+<td width="55%" align="center" valign="top">
 
 <h3>☕ Backend</h3>
 
@@ -102,23 +108,25 @@
 </p>
 
 <p>
-<b>Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; Maven &nbsp; • &nbsp; Hibernate</b>
+<b>
+Java &nbsp; • &nbsp;
+Spring Boot &nbsp; • &nbsp;
+Maven &nbsp; • &nbsp;
+Hibernate
+</b>
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" alt="REST API"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JDBC-111827?style=flat-square" alt="JDBC"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JPA-111827?style=flat-square" alt="JPA"/>
 </p>
 
 </td>
 
 </tr>
-
-
-<tr>
 
 <!-- ================= DATABASE ================= -->
 
