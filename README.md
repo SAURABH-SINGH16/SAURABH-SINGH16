@@ -55,9 +55,7 @@
 
 <p align="center">
 
-<table cellspacing="0" cellpadding="30">
-
-<tr>
+<table width="90%" cellspacing="0" cellpadding="30">
 
 <!-- ================= FRONTEND ================= -->
 
