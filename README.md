@@ -48,3 +48,17 @@
 - 📍 Based in **Pune, Maharashtra, India**
 
 </p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
+## Tech Stack 🛠️
+
+<p align="center">
+  <img
+    src="./assets/tech-stack.svg"
+    width="100%"
+    alt="Saurabh Singh Tech Stack"
+  />
+</p>
