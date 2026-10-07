@@ -71,8 +71,6 @@
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" alt="JavaScript"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" alt="React"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" alt="Tailwind CSS"/>
 </p>
 
 <p>
