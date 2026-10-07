@@ -50,12 +50,15 @@
 </p>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Tech Stack 🛠️
 
 <p align="center">
 
 <table width="90%" cellspacing="0" cellpadding="30">
+
+<!-- ================= TOP ROW ================= -->
+
+<tr>
 
 <!-- ================= FRONTEND ================= -->
 
@@ -160,5 +163,62 @@
 </table>
 
 </td>
+
+</tr>
+
+</table>
+
 </p>
 
+
+<!-- ================= DEVOPS & TOOLS ================= -->
+
+<p align="center">
+
+<h3 align="center">⚙️ DevOps & Tools</h3>
+
+<table align="center" cellspacing="0" cellpadding="5">
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="42" alt="Microsoft Azure"/>
+<br>
+<b>Azure</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+<br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+<br>
+<b>Linux</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" alt="Git"/>
+<br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" alt="GitHub"/>
+<br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" alt="VS Code"/>
+<br>
+<b>VS Code</b>
+</td>
+
+</tr>
+
+</table>
+
+</p>
