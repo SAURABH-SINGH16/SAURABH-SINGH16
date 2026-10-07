@@ -63,23 +63,35 @@
 
 <h3>🌐 Frontend</h3>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" alt="CSS3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" alt="JavaScript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" alt="React"/>
-</p>
+<table cellspacing="0" cellpadding="5">
+<tr>
 
-<p>
-<b>
-HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp;
-</b>
-  <br>
-  React
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+<br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+<br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+<br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React"/>
+<br>
+<b>React</b>
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -90,19 +102,29 @@ HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp;
 
 <h3>☕ Backend</h3>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" alt="Java"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="REST API"/>
-</p>
+<table cellspacing="0" cellpadding="5">
+<tr>
 
-<p>
-<b>
-Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; REST API
-</b>
-</p>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" alt="Java"/>
+<br>
+<b>Java</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/>
+<br>
+<b>Spring Boot</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="REST API"/>
+<br>
+<b>REST API</b>
+</td>
+
+</tr>
+</table>
 
 </td>
 
@@ -113,22 +135,28 @@ Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; REST API
 
 <h3>🗄️ Database</h3>
 
-<p>
+<table cellspacing="0" cellpadding="5">
+<tr>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<b>MongoDB</b>
+</td>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/>
-</p>
-
-<p>
-<b>
-MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; SQLite
-</b>
-</p>
-
+<br>
+<b>SQLite</b>
 </td>
 
 </tr>
-
 </table>
+
+</td>
