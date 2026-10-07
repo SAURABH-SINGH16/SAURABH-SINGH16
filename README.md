@@ -53,7 +53,9 @@
 
 ## Tech Stack 🛠️
 
-<table width="100%" cellspacing="0" cellpadding="40">
+<p align="center">
+
+<table cellspacing="0" cellpadding="30">
 
 <tr>
 
@@ -160,3 +162,5 @@
 </table>
 
 </td>
+</p>
+
