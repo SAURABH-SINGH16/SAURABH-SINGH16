@@ -49,10 +49,7 @@
 
 </p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech Stack 🛠️
 
@@ -62,7 +59,7 @@
 
 <!-- ================= FRONTEND ================= -->
 
-<td width="45%" align="center" valign="top">
+<td width="55%" align="center" valign="top">
 
 <h3>🌐 Frontend</h3>
 
@@ -90,10 +87,9 @@ Tailwind CSS
 
 </td>
 
-
 <!-- ================= BACKEND ================= -->
 
-<td width="55%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 <h3>☕ Backend</h3>
 
@@ -108,25 +104,11 @@ Tailwind CSS
 </p>
 
 <p>
-<b>
-Java &nbsp; • &nbsp;
-Spring Boot &nbsp; • &nbsp;
-Maven &nbsp; • &nbsp;
-Hibernate
-</b>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" alt="REST API"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JDBC-111827?style=flat-square" alt="JDBC"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/JPA-111827?style=flat-square" alt="JPA"/>
+<b>Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; Maven &nbsp; • &nbsp; Hibernate</b>
 </p>
 
 </td>
 
-</tr>
 
 <!-- ================= DATABASE ================= -->
 
@@ -143,7 +125,6 @@ Hibernate
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" alt="SQLite"/>
 </p>
-
 <p>
 <b>MySQL &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; SQLite</b>
 </p>
@@ -151,24 +132,6 @@ Hibernate
 </td>
 
 
-<!-- ================= TOOLS ================= -->
 
-<td width="60%" align="center" valign="top">
-
-<h3>🧰 Tools</h3>
-
-<p>
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" alt="VS Code"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" alt="Postman"/>
-</p>
-
-<p>
-<b>VS Code &nbsp; • &nbsp; Postman</b>
-</p>
-
-</td>
-
-</tr>
 
 </table>
