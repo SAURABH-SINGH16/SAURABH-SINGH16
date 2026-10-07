@@ -77,6 +77,8 @@
 <b>
 HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp;
 </b>
+  <br>
+  React
 </p>
 
 </td>
