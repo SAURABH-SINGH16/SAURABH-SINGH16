@@ -53,7 +53,7 @@
 
 ## Tech Stack 🛠️
 
-<table width="100%" cellspacing="0" cellpadding="20">
+<table width="100%" cellspacing="0" cellpadding="40">
 
 <tr>
 
@@ -65,17 +65,17 @@
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React"/>
 </p>
 
 <p>
 <b>
-HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; React
+HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp;
 </b>
 </p>
 
@@ -90,9 +90,9 @@ HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; Reac
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" alt="Java"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="REST API"/>
 </p>
 
@@ -113,9 +113,9 @@ Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; REST API
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/>
 </p>
 
