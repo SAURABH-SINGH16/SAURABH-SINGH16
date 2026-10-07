@@ -49,7 +49,7 @@
 
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech Stack 🛠️
 
@@ -59,50 +59,47 @@
 
 <!-- ================= FRONTEND ================= -->
 
-<td width="55%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>🌐 Frontend</h3>
 
 <p>
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="48" alt="HTML5"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="48" alt="CSS3"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" alt="JavaScript"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="48" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" alt="React"/>
 </p>
 
 <p>
 <b>
-HTML5 &nbsp; • &nbsp;
-CSS3 &nbsp; • &nbsp;
-JavaScript &nbsp; • &nbsp;
-React &nbsp; • &nbsp;
-Tailwind CSS
+HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; React
 </b>
 </p>
 
 </td>
 
+
 <!-- ================= BACKEND ================= -->
 
-<td width="60%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>☕ Backend</h3>
 
 <p>
-<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="48" alt="Java"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/springboot/6DB33F" width="48" alt="Spring Boot"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/apachemaven/C71A36" width="48" alt="Maven"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/hibernate/59666C" width="48" alt="Hibernate"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="42" alt="REST API"/>
 </p>
 
 <p>
-<b>Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; Maven &nbsp; • &nbsp; Hibernate</b>
+<b>
+Java &nbsp; • &nbsp; Spring Boot &nbsp; • &nbsp; REST API
+</b>
 </p>
 
 </td>
@@ -110,26 +107,26 @@ Tailwind CSS
 
 <!-- ================= DATABASE ================= -->
 
-<td width="60%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
 <h3>🗄️ Database</h3>
 
 <p>
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" alt="MySQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" alt="MongoDB"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" alt="PostgreSQL"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" alt="MongoDB"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/>
 </p>
+
 <p>
-<b>MySQL &nbsp; • &nbsp; MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; SQLite</b>
+<b>
+MongoDB &nbsp; • &nbsp; PostgreSQL &nbsp; • &nbsp; SQLite
+</b>
 </p>
 
 </td>
 
-
-
+</tr>
 
 </table>
