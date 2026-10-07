@@ -62,7 +62,7 @@
 
 <!-- ================= FRONTEND ================= -->
 
-<td width="60%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <h3>🌐 Frontend</h3>
 
@@ -87,7 +87,7 @@
 
 <!-- ================= BACKEND ================= -->
 
-<td width="50%" align="center" valign="top">
+<td width="90%" align="center" valign="top">
 
 <h3>☕ Backend</h3>
 
@@ -122,7 +122,7 @@
 
 <!-- ================= DATABASE ================= -->
 
-<td width="50%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 <h3>🗄️ Database</h3>
 
@@ -145,7 +145,7 @@
 
 <!-- ================= TOOLS ================= -->
 
-<td width="50%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 <h3>🧰 Tools</h3>
 
