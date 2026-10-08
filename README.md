@@ -57,7 +57,7 @@
 <!-- ================= FRONTEND ================= -->
 <tr>
 
-<td width="18%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 <h4>Frontend</h4>
 </td>
 
@@ -97,7 +97,7 @@
 <!-- ================= BACKEND ================= -->
 <tr>
 
-<td width="18%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 <h4>Backend</h4>
 </td>
 
@@ -132,7 +132,7 @@
 <!-- ================= DATABASE ================= -->
 <tr>
 
-<td width="18%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 <h4>Database</h4>
 </td>
 
@@ -167,7 +167,7 @@
 <!-- ================= DEVOPS & TOOLS ================= -->
 <tr>
 
-<td width="35%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 <h4>DevOps & Tools</h4>
 </td>
 
