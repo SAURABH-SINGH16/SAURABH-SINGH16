@@ -60,7 +60,7 @@
 
 <td width="18%" align="center" valign="middle">
 
-<h3>🌐 Frontend</h3>
+<h3> Frontend</h3>
 
 </td>
 
@@ -107,7 +107,7 @@
 
 <td width="18%" align="center" valign="middle">
 
-<h3>☕ Backend</h3>
+<h3> Backend</h3>
 
 </td>
 
@@ -148,7 +148,7 @@
 
 <td width="18%" align="center" valign="middle">
 
-<h3>🗄️ Database</h3>
+<h3> Database</h3>
 
 </td>
 
@@ -189,7 +189,7 @@
 
 <td width="18%" align="center" valign="middle">
 
-<h3>⚙️ DevOps & Tools</h3>
+<h3> DevOps & Tools</h3>
 
 </td>
 
