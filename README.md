@@ -347,3 +347,18 @@ data visualization, charts, and an interactive user experience.
 </tr>
 
 </table>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Certifications 🏆
+
+<table width="100%" cellspacing="0" cellpadding="10">
+<tr>
+<td width="100%" valign="middle">
+<br></br>
+<h3>🏆 Microsoft Azure Essentials Professional Certificate - Microsoft & LinkedIn</h3>
+</td>
+</tr>
+
+</table>
