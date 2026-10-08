@@ -156,6 +156,11 @@
 <sub><b>SQLite</b></sub>
 </td>
 
+<td align="center" width="55">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="28" alt="SQL"/><br>
+<sub><b>SQL</b></sub>
+</td>
+
 </tr>
 </table>
 
