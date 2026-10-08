@@ -210,12 +210,110 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="28" alt="VS Code"/><br>
 <sub><b>VS Code</b></sub>
 </td>
-
+</tr>
+</table>
+</td>
 </tr>
 </table>
 
+
+
+## Featured Projects 🚀
+
+<table width="100%" cellspacing="0" cellpadding="8">
+
+<tr>
+<th width="22%">Project</th>
+<th width="23%">Technologies</th>
+<th width="45%">Description</th>
+<th width="10%">Link</th>
+</tr>
+
+<tr>
+<td>
+<b>💼 Employee Payroll Management System</b>
 </td>
 
+<td>
+<code>Java</code> <code>JDBC</code> <code>SQLite</code> <code>SQL</code>
+</td>
+
+<td>
+A desktop-based payroll management system designed to manage employee records,
+calculate salaries and taxes, maintain persistent data, and generate reports.
+</td>
+
+<td align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View-Project-111827?style=flat-square" alt="View Project"/>
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<b>💰 Personal Finance Tracker</b>
+</td>
+
+<td>
+<code>Python</code> <code>Flask</code> <code>HTML/CSS</code> <code>JavaScript</code>
+</td>
+
+<td>
+A personal finance web application for tracking income and expenses,
+categorizing transactions, managing budgets, and viewing financial analytics.
+</td>
+
+<td align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View-Project-111827?style=flat-square" alt="View Project"/>
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<b>📚 Library Management System</b>
+</td>
+
+<td>
+<code>Java</code> <code>Android SDK</code> <code>MVVM</code> <code>SQLite</code>
+</td>
+
+<td>
+An Android-based library management application for book indexing,
+reservations, issuing books, and maintaining persistent library records.
+</td>
+
+<td align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View-Project-111827?style=flat-square" alt="View Project"/>
+</a>
+</td>
+</tr>
+
+
+<tr>
+<td>
+<b>📊 Trading Dashboard</b>
+</td>
+
+<td>
+<code>JavaScript</code> <code>HTML5</code> <code>Tailwind CSS</code>
+</td>
+
+<td>
+A responsive trading dashboard designed for market tracking,
+data visualization, charts, and an interactive user experience.
+</td>
+
+<td align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View-Project-111827?style=flat-square" alt="View Project"/>
+</a>
+</td>
 </tr>
 
 </table>
